@@ -1,0 +1,78 @@
+body {
+background-color: #FFffff;
+  
+} 
+
+h1 {
+  
+  
+  font-family: Avenir;
+  font-size: 50px;
+  font-variant: small-caps;
+  font-style: oblique; 
+  padding: 15px;
+  color: #FFE3E3;
+  text-shadow: 3px 3px #FF9C9C;
+  z-index: 0;
+
+}
+
+h2 {
+
+  font-family: Avenir;
+  font-size: 40px;
+  font-variant: small-caps;
+  font-style: oblique; 
+  padding: 15px;
+  color: #FFD7FF;
+  text-shadow: 3px 3px #FF66FF;
+  z-index: 0;
+
+}
+
+img.drake {
+  width: 100%;
+  z-index: -2;
+}
+
+
+table.smellyfarts {
+  width: 100%;
+  padding: 35px;
+  display: inline-table;
+  text-align: left;
+  font-family: Avenir;
+  font-variant: small-caps;
+  font-style: oblique; 
+  font-size: 33px;
+  color: #FFD2E8;
+  text-shadow: 2px 2px #FF82C1;
+  background-color: #FFffff;
+  z-index: 1;
+}
+
+p.stinkytofu {
+  text-align: left;
+  padding: 15px;
+  font-family: Avenir;
+  font-variant: small-caps;
+  font-style: oblique; 
+  font-size: 70px;
+  color: #E5FFE5;
+  text-shadow: 3px 3px  #99FF99;
+  background-color: #FFffff;
+  z-index: 1;
+}
+p {
+  text-align: left;
+  padding: 15px;
+  font-family: Avenir;
+  font-variant: small-caps;
+  font-style: oblique; 
+  font-size: 75px;
+  color: #DBC9FF;
+  text-shadow: 3px 3px  #B590FF;
+  background-color: #FFffff;
+  z-index: 1;
+
+}
